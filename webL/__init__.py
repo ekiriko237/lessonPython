@@ -1,3 +1,5 @@
+#  create '23.xx.xx
+#  s.nakamori 
 from webL import db
 db.create_books_table()
 

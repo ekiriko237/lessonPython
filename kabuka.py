@@ -3,7 +3,8 @@
 # nakamori '23/6
 #  input:株式銘柄コードF(複数銘柄)
 #  output:株価時系列データF
-
+#  create '23.xx.xx
+#  s.nakamori
 import os
 import time
 import glob

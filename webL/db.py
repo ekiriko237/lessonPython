@@ -1,3 +1,5 @@
+#  create '23.xx.xx
+#  s.nakamori 
 import sqlite3
 
 DATABASE= 'database.db'
