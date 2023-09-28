@@ -1,0 +1,33 @@
+/ ((main.py))
+/register (main.py)
+INSERT INTO books (main.py)
+/ ((main.py))
+/ ((main.py))
+/ ((main.py))
+/ ((main.py))
+<built-in method date of datetime.datetime object at 0x000002A6D242E480>
+14:45:27.437190
+<built-in method date of datetime.datetime object at 0x000001C464EFE480>
+14:46:12.602551
+<built-in method date of datetime.datetime object at 0x00000136621DD480>
+14:47:36.457489
+2023-09-08 14:47:36.459488
+<built-in method date of datetime.datetime object at 0x00000199B483B480>
+14:58:15.579639
+<built-in method date of datetime.datetime object at 0x000001F975B4E4B0>
+14:59:05.029984
+<built-in method date of datetime.datetime object at 0x0000019CC187F480>
+14:59:40.946429
+<built-in method date of datetime.datetime object at 0x00000204E9F6E480>
+15:00:08.015142
+{date_obj.year}-{date_obj.month}-{date_obj.day} 
+15:07:11.358618
+{date_obj.year}-{date_obj.month}-{date_obj.day} 
+15:08:56.127784
+{date_obj.year}-{date_obj.month}-{date_obj.day} 
+{date_obj.year}-{date_obj.month}-{date_obj.day} 
+{time_obj.hour}:{time_obj.minute}:{time_obj.second} 
+{date_obj.year}-{date_obj.month}-{date_obj.day} 
+{time_obj.hour}:{time_obj.minute}:{time_obj.second}
+{date_obj.year}-{date_obj.month}-{date_obj.day} 
+{time_obj.hour}:{time_obj.minute}:{time_obj.second}
